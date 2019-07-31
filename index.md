@@ -1,7 +1,7 @@
-## Heroku User Group Sydney
+## Slack
 
-Welcome to HUGS! Join us [on Slack]( https://join.slack.com/t/heroku-ugs/shared_invite/enQtNzA5NDcwNjc1NzQ4LWI4NjAxMTNlYzI4YWNlZGE1YjM2NDllM2VhZTU0ODljMmM1MTcxNmI4NzkyMzVhZjA1MGUwZDk4NmVlMzUxZjE).
+Stay in touch! Join the community [on Slack]( https://join.slack.com/t/heroku-ugs/shared_invite/enQtNzA5NDcwNjc1NzQ4LWI4NjAxMTNlYzI4YWNlZGE1YjM2NDllM2VhZTU0ODljMmM1MTcxNmI4NzkyMzVhZjA1MGUwZDk4NmVlMzUxZjE).
 
-### Events
+## Events
 
 You can find out about our events [on Meetup](https://www.meetup.com/heroku-user-group-sydney/).
