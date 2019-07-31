@@ -1,5 +1,3 @@
 theme: jekyll-theme-cayman
-site:
-  github:
-    project_title: 'Heroku User Group Sydney'
-    project_tagline: 'A bi-monthly meetup for Heroku users in Sydney.'
+title: 'Heroku User Group Sydney'
+description: 'A bi-monthly meetup for Heroku users in Sydney.'
